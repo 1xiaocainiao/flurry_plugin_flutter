@@ -1,0 +1,2 @@
+# flurry_plugin_flutter
+修复flurry版本号显示问题
